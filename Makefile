@@ -1,6 +1,6 @@
 CC = gcc
 CPP = g++
-CFLAGS = -pedantic -Wall -Wextra -Werror -lm
+CFLAGS = -pedantic -Wall -Wextra -Werror -lm -lstdc++
 TARGET = main
 
 c: 
